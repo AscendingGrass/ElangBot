@@ -1,0 +1,1004 @@
+{
+	"messages": [
+		[
+			{
+				"role": "user",
+				"content": "Apa misi ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS memiliki 3 misi utama:\n1. Memberikan pendidikan dan pengajaran terbaik di bidang sains, teknologi, dan desain, dengan sistem tata kelola yang efisien dan sesuai kebutuhan masyarakat Indonesia.\n2. Bekerja sama dengan perguruan tinggi lain di dalam dan luar negeri untuk melakukan penelitian dan pengembangan di bidang sains, teknologi, dan desain, yang sesuai dengan kondisi dan kebutuhan masyarakat Indonesia.\n3. Menyediakan solusi inovatif dan unggul berbasis sains, teknologi, dan desain untuk berbagai masalah sosial, ekonomi, dan budaya, khususnya untuk membantu pemerintah Indonesia mewujudkan superioritas kekuatan sosial, ekonomi, dan budaya Indonesia."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Dimana letak kampus ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS berlokasi di Jalan Ngagel Jaya Tengah No. 73-77, Surabaya."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Kapan ISTTS berganti nama menjadi Institut Sains dan Teknologi Terpadu Surabaya?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS resmi berganti nama menjadi Institut Sains dan Teknologi Terpadu Surabaya pada tanggal 24 Juni 2019, berdasarkan SK Menteri Nomor 481/KPT/ I /2019."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja program studi yang tersedia di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS menyediakan program studi Diploma 3 (D3), Sarjana (S1), Sarjana Profesional (S1 Profesional), dan Magister (S2).\n\nProgram S1:\n- Teknik Elektro\n- Teknik Industri\n- Informatika\n- Sistem Informasi Bisnis\n- Desain Komunikasi Visual\n- Desain Produk\n\nProgram D3:\n- Manajemen Informatika\n\nProgram S1 Profesional:\n- Teknik Informatika\n- Desain Komunikasi Visual\n\nProgram S2:\n- Teknologi Informasi"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja kegiatan kemahasiswaan yang bisa saya ikuti di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS memiliki beragam kegiatan kemahasiswaan, seperti BEM (Badan Eksekutif Mahasiswa), HIMA (Himpunan Mahasiswa), UKM (Unit Kegiatan Mahasiswa), dan UKK (Unit Kegiatan Kerohanian).\n\nUKM terdiri dari:\n- UKM Olahraga: basket, bulutangkis, tenis meja, catur, taekwondo, kyokushinkai, renang, voli, dan lainnya.\n- UKM Kesenian: paduan suara, band, dance, theater, photography, cosplay Jepang (Nippon Go), dan lainnya.\n- UKM Pecinta Alam: Mapala.\n\nUKK yang tersedia:\n- Kristen: Persekutuan Doa (PD)\n- Katolik: Keluarga Mahasiswa Katolik (KMK) St. Dominikus Savio\n- Buddha: Keluarga Mahasiswa Buddha (KMB)\n- Islam: Unit Kegiatan Kerohanian Islam (UKKI)"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja Unit Kegiatan Mahasiswa (UKM) olahraga yang ada di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Beberapa UKM Olahraga di ISTTS antara lain:\n- Basket\n- Bulutangkis\n- Tenis Meja\n- Catur\n- Taekwondo\n- Kyokushinkai\n- Renang\n- Voli"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana sistem perkuliahan di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS menerapkan sistem Satuan Kredit Semester (SKS), di mana bobot setiap mata kuliah diukur dalam SKS. Setiap SKS setara dengan 16-19 minggu kegiatan perkuliahan."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa itu English Conversation Class (ECC)?"
+			},
+			{
+				"role": "assistant",
+				"content": "ECC adalah program kelas percakapan bahasa Inggris yang wajib diikuti oleh semua mahasiswa S1 dan D3 reguler di ISTTS, kecuali Program Profesional dan International Program. Program ini terdiri dari 4 level dan bertujuan untuk meningkatkan kemampuan berbicara bahasa Inggris."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa syarat mengikuti kelas ECC?"
+			},
+			{
+				"role": "assistant",
+				"content": "Untuk mengikuti kelas ECC, mahasiswa wajib mengikuti Ujian Penempatan yang diselenggarakan pada pertengahan semester. Hasil ujian akan menentukan level awal ECC yang harus diikuti."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah ISTTS menyediakan program beasiswa?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ya, ISTTS menyediakan berbagai program beasiswa, baik dari Yayasan PTTN/ISTTS, Diknas (KIP-K), maupun dari perusahaan mitra. Informasi mengenai program beasiswa dapat dilihat di website ISTTS dan papan pengumuman kampus."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara mendaftar beasiswa di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Pendaftaran beasiswa di ISTTS dilakukan secara online melalui website beasiswa.istts.ac.id. Pastikan untuk melengkapi semua persyaratan yang tercantum."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah ISTTS memiliki program kerjasama dual degree?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ya, ISTTS memiliki program kerjasama dual degree dengan beberapa universitas terkemuka di luar negeri, seperti:\n\n- Swinburne University of Technology, Australia\n- Dongseo University, Busan, South Korea\n- Fontys University of Applied Sciences, Netherlands\n- Saxion University of Applied Sciences, Netherlands"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara mendapatkan informasi mengenai lowongan pekerjaan di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Informasi mengenai lowongan pekerjaan di ISTTS dapat diakses melalui:\n\n- Papan Pengumuman Lowongan Kerja di kampus\n- Website ISTTS\n- Kontak telepon dari bagian Kemahasiswaan ISTTS"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah ISTTS menyelenggarakan job fair?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ya, ISTTS secara berkala menyelenggarakan job fair yang menghadirkan berbagai perusahaan untuk melakukan rekrutmen. Informasi mengenai job fair akan diumumkan di website ISTTS dan media sosial."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa itu KTM dan bagaimana cara membuatnya?"
+			},
+			{
+				"role": "assistant",
+				"content": "KTM (Kartu Tanda Mahasiswa) adalah tanda pengenal bagi mahasiswa ISTTS. Pembuatan KTM dilakukan secara berkala dan tidak dipungut biaya. Informasi mengenai jadwal pembuatan KTM dapat dilihat di website ISTTS dan papan pengumuman kampus."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara mengurus KTM yang hilang?"
+			},
+			{
+				"role": "assistant",
+				"content": "Jika KTM hilang, mahasiswa dapat mengurus pembuatan KTM baru dengan biaya penggantian sebesar Rp25.000,-."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja fasilitas di perpustakaan ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Perpustakaan ISTTS menyediakan berbagai fasilitas, seperti:\n\n- Koleksi buku cetak dan digital\n- Jurnal dan majalah\n- Ruang baca dan diskusi\n- Layanan peminjaman buku\n- Akses internet"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara meminjam buku di perpustakaan ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Untuk meminjam buku, mahasiswa harus menunjukkan KTM yang masih berlaku. Setiap mahasiswa dapat meminjam maksimal 3 buku dengan jangka waktu peminjaman 1 minggu."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah ISTTS memiliki fasilitas olahraga?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ya, ISTTS memiliki fasilitas olahraga seperti lapangan basket, lapangan voli, dan ruang fitness. Mahasiswa dapat menggunakan fasilitas ini dengan menunjukkan KTM."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara menghubungi bagian kemahasiswaan ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Anda dapat menghubungi bagian kemahasiswaan ISTTS melalui:\n\n- Telepon: (031) 5945505 ext. 102\n- Email: bak@istts.ac.id\n- Datang langsung ke kantor BAK di Gedung Eagle lantai 1"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Kampus ISTTS itu letaknya dimana?"
+			},
+			{
+				"role": "assistant",
+				"content": "Kampus ISTTS berada di Jalan Ngagel Jaya Tengah No. 73-77, Surabaya."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Berapa lama masa studi di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Masa studi normal di ISTTS adalah 4 tahun (8 semester) untuk program S1 dan 3 tahun (6 semester) untuk program D3."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa arti lambang ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Lambang ISTTS memiliki beberapa makna:\n- Lingkaran dengan 3 elektroda: sains, teknologi, dan desain\n- 3 orbit: Tri Dharma Perguruan Tinggi\n- 6 elektron: nilai-nilai luhur dan kemampuan lulusan\n- Warna kuning: keagungan dan penyuluhan"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja kewajiban mahasiswa ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Kewajiban mahasiswa ISTTS:\n- Mematuhi peraturan ISTTS\n- Memelihara sarana prasarana dan ketertiban\n- Membayar biaya pendidikan (kecuali yang dibebaskan)\n- Menghargai ilmu pengetahuan dan menjaga nama baik ISTTS\n- Menggunakan bahasa yang santun"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana etika berkomunikasi dengan dosen di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Etika berkomunikasi dengan dosen:\n- Mengenal dosen di lingkungannya\n- Bersikap hormat\n- Membuat janji temu sebelum konsultasi\n- Menjunjung tinggi kejujuran akademik"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa yang dimaksud dengan SKS?"
+			},
+			{
+				"role": "assistant",
+				"content": "SKS (Satuan Kredit Semester) adalah beban studi mahasiswa dalam satu semester, setara dengan 16-19 minggu kerja."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana sistem penilaian di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS menggunakan sistem penilaian huruf (A, B, C, D, E) dengan bobot nilai masing-masing. Nilai dapat dilihat di website SIM ISTTS."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa syarat untuk mengulang mata kuliah?"
+			},
+			{
+				"role": "assistant",
+				"content": "Mahasiswa bisa mengulang mata kuliah jika mendapat nilai D atau E. Jika mengulang, nilai yang diambil adalah nilai terbaik."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa itu perwalian dan bagaimana prosedurnya?"
+			},
+			{
+				"role": "assistant",
+				"content": "Perwalian adalah bimbingan dari dosen wali untuk membantu mahasiswa dalam studinya. Prosedurnya meliputi pengisian FRS online, bertemu dosen wali, dan validasi FRS."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana jika terlambat melakukan perwalian?"
+			},
+			{
+				"role": "assistant",
+				"content": "Mahasiswa yang terlambat perwalian bisa mengambil formulir di BAA, menemui dosen wali, dan menyelesaikan administrasi di BAU."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja ketentuan perkuliahan di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Beberapa ketentuan perkuliahan:\n- Perkuliahan tidak boleh diwakilkan\n- Mahasiswa semester 1 & 2 wajib mengambil SKS sesuai paket Prodi\n- Batal/Tambah & Drop bisa dilakukan mulai semester 3\n- Syarat UTS & UAS: bebas TBU Absensi, Keuangan, & Praktikum\n- Wajib berpakaian sopan dan rapi saat di kampus"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa itu Batal/Tambah dan Drop mata kuliah?"
+			},
+			{
+				"role": "assistant",
+				"content": "Batal/Tambah adalah perubahan rencana studi yang mempengaruhi biaya kuliah, sedangkan Drop bertujuan memaksimalkan IPS dan tetap dikenai biaya."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana prosedur cuti kuliah di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Prosedur cuti kuliah:\n- Mengambil formulir cuti di BAA\n- Mengisi formulir dan melengkapi persyaratan\n- Menyerahkan formulir ke BAA sebelum batas waktu"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara transfer program studi di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Untuk transfer internal, ambil formulir di BAA, lengkapi persyaratan, serahkan ke BAA, dapatkan NRP baru, dan lakukan perwalian. Untuk transfer dari luar ISTTS, hubungi PMB ISTTS."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja tahapan dalam Kerja Praktek (KP)?"
+			},
+			{
+				"role": "assistant",
+				"content": "Tahapan KP:\n- Pendaftaran dan pengumpulan dokumen\n- Penentuan lokasi dan topik KP\n- Monitoring KP oleh dosen\n- Pelaksanaan seminar KP"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana prosedur upload proposal Tugas Akhir (TA)?"
+			},
+			{
+				"role": "assistant",
+				"content": "Prosedur upload proposal TA:\n- Ambil dan isi formulir proposal\n- Minta tanda tangan dosen pembimbing\n- Upload formulir dan proposal ke website\n- Ikuti sidang proposal dan revisi jika perlu\n- Upload proposal revisi\n- BAA menerbitkan SK TA\n- Ambil SK TA di BAA"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa itu Pra Seminar TA dan bagaimana prosedurnya?"
+			},
+			{
+				"role": "assistant",
+				"content": "Pra Seminar TA adalah presentasi awal sebelum Seminar TA. Prosedurnya meliputi meminta persetujuan dosen, mengisi formulir online, dan mengikuti pra seminar sesuai jadwal."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana prosedur Seminar Tugas Akhir?"
+			},
+			{
+				"role": "assistant",
+				"content": "Prosedur Seminar TA:\n- Minta persetujuan dosen pembimbing\n- Lengkapi persyaratan\n- Isi formulir pendaftaran online\n- Ikuti seminar sesuai jadwal"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa itu BEM dan HIMA?"
+			},
+			{
+				"role": "assistant",
+				"content": "BEM (Badan Eksekutif Mahasiswa) adalah organisasi mahasiswa tingkat institut, sedangkan HIMA (Himpunan Mahasiswa) adalah organisasi mahasiswa tingkat jurusan."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa fungsi KTM?"
+			},
+			{
+				"role": "assistant",
+				"content": "KTM (Kartu Tanda Mahasiswa) adalah tanda pengenal mahasiswa ISTTS yang digunakan untuk mengakses fasilitas kampus, seperti perpustakaan dan e-library."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Berapa lama masa berlaku KTM?"
+			},
+			{
+				"role": "assistant",
+				"content": "Masa berlaku KTM:\n- S1: 5 tahun\n- D3: 4 tahun\n- S2: 3 tahun"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara memperbarui KTM?"
+			},
+			{
+				"role": "assistant",
+				"content": "KTM bisa diperbarui secara berkala di bagian Kemahasiswaan. Mahasiswa yang terlambat memperbarui akan dikenakan denda."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana prosedur peminjaman sarana prasarana kampus?"
+			},
+			{
+				"role": "assistant",
+				"content": "Mahasiswa yang ingin meminjam sarana prasarana harus mengajukan proposal kegiatan dan surat izin peminjaman yang disetujui oleh Wakil Rektor III."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Berapa poin kegiatan kemahasiswaan yang harus dikumpulkan?"
+			},
+			{
+				"role": "assistant",
+				"content": "Poin kemahasiswaan yang harus dikumpulkan:\n- D3: 1000 poin\n- S1: 1500 poin\n- S2: 1500 poin"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara mendapatkan poin kegiatan kemahasiswaan?"
+			},
+			{
+				"role": "assistant",
+				"content": "Mahasiswa mendapatkan poin dengan berpartisipasi dalam kegiatan kemahasiswaan, seperti kepanitiaan, organisasi, kerohanian, dan penalaran."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja program studi yang ada di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS memiliki program D3, S1, S1 Profesional, dan S2. \n\nUntuk program S1, jurusannya ada:\n- Teknik Elektro\n- Teknik Industri\n- Informatika\n- Sistem Informasi Bisnis\n- Desain Komunikasi Visual\n- Desain Produk\n\nUntuk program D3:\n- Manajemen Informatika\n\nUntuk program S1 Profesional:\n- Teknik Informatika\n- Desain Komunikasi Visual\n\nUntuk program S2:\n- Teknologi Informasi"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja konsentrasi yang ditawarkan di Program Studi Teknik Elektro ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Program Studi Teknik Elektro ISTTS menawarkan dua konsentrasi:\n\n1. **Industrial Internet of Things (IIoT)**: Fokus pada penerapan internet untuk membuat peralatan dan mesin cerdas yang dapat dikendalikan jarak jauh.\n\n2. **Industrial Automation**: Mempelajari sistem pengendalian dan pengawasan mesin-mesin industri secara otomatis menggunakan peralatan elektronik seperti PLC, HMI, dan SCADA."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa perbedaan antara Program Studi S1 Informatika dan S1 Informatika Profesional di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Perbedaan utama antara S1 Informatika dan S1 Informatika Profesional terletak pada waktu perkuliahan. S1 Informatika reguler diselenggarakan pada pagi hari, sedangkan S1 Informatika Profesional diselenggarakan pada sore/malam hari, ditujukan untuk mahasiswa yang bekerja pada siang hari. Selain itu, tidak ada perbedaan signifikan dalam hal kurikulum dan kualitas pendidikan."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Jurusan Desain Komunikasi Visual di ISTTS berfokus pada tiga pilar utama, apa sajakah itu?"
+			},
+			{
+				"role": "assistant",
+				"content": "Program Studi Desain Komunikasi Visual ISTTS berfokus pada tiga pilar utama, yaitu:\n\n1. **Seni**: Mahasiswa mempelajari teori dan praktik seni rupa dan desain untuk membangun dasar yang kuat dalam berkarya, serta mengembangkan kreativitas dan kepekaan estetika.\n\n2. **Teknologi**: Mahasiswa dilatih untuk menggunakan teknologi multimedia terkini dalam proses desain dan produksi visual.\n\n3. **Bisnis**: Mahasiswa dibekali dengan pengetahuan dan keterampilan manajemen untuk menjalankan bisnis desain dan berwirausaha."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa yang dimaksud dengan 'Desain Produk Cerdas' di Program Studi Desain Produk ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "'Desain Produk Cerdas' di ISTTS berfokus pada pengembangan produk yang memanfaatkan teknologi cerdas seperti sensor, wireless, IoT, dan HCI. Mahasiswa dilatih untuk menciptakan produk inovatif yang dapat menyelesaikan masalah dalam kehidupan manusia sehari-hari."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja bidang peminatan yang ditawarkan di Program Studi S1 Sistem Informasi Bisnis ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Program Studi S1 Sistem Informasi Bisnis ISTTS menawarkan tiga bidang peminatan:\n\n1. **Enterprise Information System**: Fokus pada integrasi teknologi informasi dengan proses bisnis organisasi.\n\n2. **Data Science**: Mempelajari pengolahan dan analisis data untuk pengambilan keputusan bisnis.\n\n3. **Creative Media Business**: Berfokus pada pengembangan bisnis kreatif di bidang multimedia dan media digital."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah Program Studi D3 Sistem Informasi di ISTTS memiliki program sertifikasi profesional?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ya, Program Studi D3 Sistem Informasi ISTTS bekerja sama dengan beberapa vendor perangkat lunak terkemuka seperti Microsoft, Oracle, Mikrotik, dan Cisco untuk menyelenggarakan program sertifikasi keahlian bagi mahasiswa."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja fasilitas yang tersedia di kampus ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS menyediakan berbagai fasilitas untuk mendukung kegiatan belajar mengajar, penelitian, dan kemahasiswaan, antara lain:\n\n- Laboratorium komputer dan teknologi\n- Perpustakaan dan e-library\n- Ruang kuliah dan auditorium\n- Ruang seminar dan diskusi\n- Student lounge dan kantin\n- Fasilitas olahraga dan seni"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara menghubungi Biro Administrasi Akademik (BAA) ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Anda dapat menghubungi Biro Administrasi Akademik (BAA) ISTTS melalui:\n\n- Telepon: (031) 5945505 ext. 101\n- Email: baa@istts.ac.id\n- Datang langsung ke kantor BAA di Gedung Eagle lantai 1"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja persyaratan untuk mendaftar ke Program Studi S2 Teknologi Informasi ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Persyaratan umum untuk mendaftar S2 Teknologi Informasi ISTTS:\n\n- Memiliki gelar Sarjana (S1) dari bidang ilmu komputer, sistem informasi, atau bidang terkait lainnya.\n- Melengkapi formulir pendaftaran dan membayar biaya pendaftaran.\n- Menyerahkan transkrip nilai akademik S1.\n- Menyerahkan surat rekomendasi dari dosen atau atasan.\n- Menyerahkan sertifikat TOEFL atau IELTS (jika ada).\n- Lulus tes potensi akademik dan wawancara."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah ISTTS memiliki program pertukaran pelajar?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ya, ISTTS memiliki program pertukaran pelajar dengan beberapa universitas di luar negeri. Mahasiswa dapat mengikuti program ini untuk mendapatkan pengalaman belajar internasional dan memperluas wawasan."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah ada program beasiswa untuk mahasiswa berprestasi di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ya, ISTTS menyediakan beasiswa prestasi bagi mahasiswa yang memiliki IPK tinggi dan aktif dalam kegiatan kemahasiswaan. Informasi lebih lanjut dapat diperoleh di Biro Administrasi Kemahasiswaan (BAK)."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah ISTTS memiliki program magang untuk mahasiswa?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ya, ISTTS bekerja sama dengan berbagai perusahaan dan instansi untuk menyediakan program magang bagi mahasiswa. Informasi lowongan magang dapat diakses melalui Biro Administrasi Kemahasiswaan (BAK) dan website ISTTS."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara menghubungi Biro Administrasi Kemahasiswaan (BAK) ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Anda dapat menghubungi Biro Administrasi Kemahasiswaan (BAK) ISTTS melalui:\n\n- Telepon: (031) 5945505 ext. 102\n- Email: bak@istts.ac.id\n- Datang langsung ke kantor BAK di Gedung Eagle lantai 1"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah ISTTS menyediakan asrama untuk mahasiswa?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS tidak menyediakan asrama untuk mahasiswa. Namun, ISTTS dapat membantu mahasiswa dalam mencari tempat tinggal di sekitar kampus."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "istts itu apa?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS adalah singkatan dari Institut Sains dan Teknologi Terpadu Surabaya, yaitu sekolah teknik terbaik di jawa timur yang sudah berdiri lebih dari 40 tahun."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "kalau mau nanya tentang uang sama siapa ya?"
+			},
+			{
+				"role": "assistant",
+				"content": "anda bisa menanyakannya ke Biro Administrasi Umum (BAU), yang bisa dikontak lewat Whatsapp: 0895 1010 0888 (hari dan jam kerja, Senin-Jumat jam 09.00 WIB s/d 16.00 WIB)"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "apa visi dari ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Visi ISTTS adalah \"Menjadi perguruan tinggi unggul di bidang sains, teknologi, dan desain dengan mengedepankan kualitas, inovasi dan nilai-nilai Keindonesiaan\"."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "apa saja jurusan yang ada di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS memiliki program D3, S1, S1 Profesional, dan S2. \n\nUntuk program S1, jurusannya ada:\n- Teknik Elektro\n- Teknik Industri\n- Informatika\n- Sistem Informasi Bisnis\n- Desain Komunikasi Visual\n- Desain Produk\n\nUntuk program D3:\n- Manajemen Informatika\n\nUntuk program S1 Profesional:\n- Teknik Informatika\n- Desain Komunikasi Visual\n\nUntuk program S2:\n- Teknologi Informasi"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "apa saja kegiatan mahasiswa yang bisa diikuti di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ada banyak kegiatan kemahasiswaan di ISTTS, seperti BEM, HIMA, UKM, dan UKK. \n\nUKM dibagi menjadi:\n- UKM Olahraga: Basket, Bulutangkis, Tenis Meja, Catur, Taekwondo, Kyokushinkai, Renang, Voli, dan lain sebagainya\n- UKM Kesenian: Paduan suara, Band, Dance, Theater, Photography, Cosplay Jepang (Nippon Go) dan lain sebagainya\n- UKM Pecinta Alam: Mapala\n\nSedangkan UKK yang tersedia adalah:\n- Kristen: Persekutuan Doa (PD)\n- Katolik: Keluarga Mahasiswa Katolik (KMK) St Dominikus Savio\n- Budha: Keluarga Mahasiswa Budhis (KMB)\n- Islam: Unit Kegiatan Kerohanian Islam (UKKI)"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "apa saja fokus pendidikan di jurusan teknik elektro?"
+			},
+			{
+				"role": "assistant",
+				"content": "Jurusan Teknik Elektro ISTTS berfokus pada Industrial Internet of Things dan Industrial Automation."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "kalau mau ikut lomba atas nama ISTTS gimana caranya?"
+			},
+			{
+				"role": "assistant",
+				"content": "Setiap mahasiswa yang hendak mengikuti lomba atas nama ISTTS, wajib menyertakan surat undangan atau poster lomba, CV, serta lolos seleksi internal atau membawa surat rekomendasi dari UKM, UKK, atau jurusan terkait."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "apa itu ECC?"
+			},
+			{
+				"role": "assistant",
+				"content": "ECC adalah English Conversation Class, kelas bahasa Inggris untuk membekali mahasiswa dengan kemampuan berbicara bahasa Inggris. Program ini terdiri dari 4 level, wajib bagi mahasiswa S1 & D3 (kecuali Program Profesional & International Program)."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "apa saja yang dipelajari di ECC Level 1?"
+			},
+			{
+				"role": "assistant",
+				"content": "ECC Level 1 mengajarkan tentang tenses, bercerita, dan menyampaikan pendapat di depan publik."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Kapan ISTTS didirikan?"
+			},
+			{
+				"role": "assistant",
+				"content": "ISTTS didirikan pada tanggal 1 Maret 1979 dengan nama Institut Teknisi Elektro Surabaya (ITES)."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja hak mahasiswa ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Beberapa hak mahasiswa ISTTS:\n- Memperoleh pengajaran sebaik-baiknya\n- Memperoleh layanan sesuai minat, bakat, kegemaran, dan kemampuan\n- Memanfaatkan fasilitas ISTTS\n- Mendapat bimbingan akademik dari dosen\n- Memperoleh layanan informasi terkait program studi dan hasil belajar\n- Menyelesaikan studi lebih awal dari jadwal (sesuai ketentuan)\n- Memanfaatkan sumber daya ISTTS (sesuai ketentuan)\n- Memperoleh pelayanan kegiatan organisasi mahasiswa\n- Memperoleh pelayanan khusus bagi penyandang disabilitas\n- Memperoleh penghargaan atas prestasi (sesuai ketentuan)"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Mahasiswa ISTTS dilarang melakukan apa saja?"
+			},
+			{
+				"role": "assistant",
+				"content": "Beberapa larangan bagi mahasiswa ISTTS:\n- Melakukan tindakan yang bertentangan dengan peraturan/perundangan/norma\n- Menyalahgunakan nama/atribut ISTTS\n- Memalsukan dokumen/nilai/tanda tangan\n- Mengganggu Tri Dharma Perguruan Tinggi\n- Memasuki bangunan ISTTS secara tidak sah\n- Menyimpan/menggunakan barang milik ISTTS secara tidak sah\n- Merusak fasilitas ISTTS\n- Menimbulkan keributan\n- Menggunakan sarana/dana ISTTS secara tidak bertanggung jawab\n- Melanggar norma susila/menghina ISTTS\n- Membawa/mengonsumsi minuman keras/obat terlarang\n- Berjudi\n- Mengancam/memeras/menteror\n- Membawa senjata tajam/api/benda berbahaya\n- Berkelahi"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja etika berpenampilan di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Etika berpenampilan di ISTTS:\n- Berpakaian sopan, wajah terlihat jelas, rambut rapi\n- Jika menggunakan kaos, harus berkerah dan dipadukan dengan celana/rok yang sopan dan rapi\n- Mengikuti ketentuan pakaian pada acara resmi/khusus"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja fokus pendidikan jurusan Teknik Industri?"
+			},
+			{
+				"role": "assistant",
+				"content": "Jurusan Teknik Industri ISTTS memiliki 3 fokus pendidikan:\n- Manufacturing System: perancangan sistem operasional industri manufaktur\n- Quality Management: perancangan dan pelaksanaan manajemen kualitas industri\n- Smart Manufacturing: penerapan teknologi IoT dalam industri"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa yang membuat jurusan Informatika ISTTS istimewa?"
+			},
+			{
+				"role": "assistant",
+				"content": "Beberapa keistimewaan jurusan Informatika ISTTS:\n- Mata kuliah AI terlengkap\n- Kurikulum up-to-date dan dosen berpengalaman\n- Peluang karir mapan di perusahaan besar\n- Lulus cepat dan peluang karir di perusahaan Unicorn\n- Peluang beasiswa\n- Merdeka Belajar"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja konsentrasi di jurusan S1 Informatika?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ada 3 konsentrasi di jurusan S1 Informatika:\n- Intelligent System: komputasi cerdas dan kecerdasan buatan\n- Software Technology: pemrograman untuk berbagai platform\n- Network and Distributed Technology: teknologi jaringan, mobile app, web, cloud, big data"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja fokus pendidikan jurusan S1 Informatika Program Profesional?"
+			},
+			{
+				"role": "assistant",
+				"content": "Sama seperti S1 Informatika, fokus pendidikan S1 Informatika Program Profesional meliputi Intelligent System, Software Technology, dan Network and Distributed Technology."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa yang membedakan program S1 Informatika dengan S1 Informatika Program Profesional?"
+			},
+			{
+				"role": "assistant",
+				"content": "Perbedaan utamanya adalah waktu perkuliahan. S1 Informatika Program Profesional diselenggarakan di sore/malam hari, ditujukan untuk mahasiswa yang bekerja di siang hari."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja fokus pendidikan jurusan Desain Komunikasi Visual (DKV)?"
+			},
+			{
+				"role": "assistant",
+				"content": "Fokus pendidikan DKV ISTTS ada pada 3 pilar utama: Seni, Teknologi, dan Bisnis."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja bidang peminatan di jurusan DKV?"
+			},
+			{
+				"role": "assistant",
+				"content": "Bidang peminatan DKV ISTTS:\n- Animasi\n- Sinematography/Perfilman\n- Ilustrasi dan Komik\n- Fotografi"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja fokus pendidikan di jurusan Desain Produk?"
+			},
+			{
+				"role": "assistant",
+				"content": "Jurusan Desain Produk ISTTS fokus pada:\n- Desain Produk Cerdas (Smart Product Design)\n- Desain Kriya Modern\n- Desain Transportasi\n- Desain Interior"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa yang membuat jurusan Desain Produk ISTTS unik?"
+			},
+			{
+				"role": "assistant",
+				"content": "Desain Produk ISTTS memadukan desain dan sistem kecerdasan buatan (AI) untuk menghasilkan produk cerdas, sejalan dengan Industri 4.0."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja fokus pendidikan jurusan S1 Sistem Informasi Bisnis?"
+			},
+			{
+				"role": "assistant",
+				"content": "Fokus pendidikan S1 Sistem Informasi Bisnis meliputi:\n- Enterprise Information System\n- Data Science\n- Creative Media Business"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja fokus pendidikan D3 Sistem Informasi?"
+			},
+			{
+				"role": "assistant",
+				"content": "D3 Sistem Informasi ISTTS fokus pada:\n- Mobile and Cloud Development\n- Technopreneurship\n- Jaringan Komputer\n- Basis Data dan Sistem Informasi"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara mendapatkan beasiswa di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Informasi beasiswa diumumkan di papan pengumuman dan website ISTTS. Mahasiswa bisa mendaftar online, melengkapi persyaratan, dan akan diseleksi oleh tim beasiswa ISTTS."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja jenis beasiswa yang ada di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Jenis beasiswa di ISTTS:\n- Beasiswa dari Yayasan PTTN / ISTTS: Beasiswa Mahasiswa Baru, Beasiswa Prestasi, Beasiswa Sosial Ekonomi\n- Beasiswa KIP-K dari DikNas\n- Beasiswa Magang dari Perusahaan"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara mengetahui informasi lowongan pekerjaan dan magang di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Informasi lowongan pekerjaan dan magang diumumkan di papan pengumuman, website ISTTS, dan melalui telepon dari bagian Kemahasiswaan."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja program Dual Degree yang ditawarkan ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Program Dual Degree ISTTS:\n- Bachelor of Information and Communication Technology (BICT) dengan Swinburne University of Technology, Australia\n- Bachelor of Computer Engineering (BCE) dengan Dongseo University, Busan, South Korea\n- Bachelor of Science / Bachelor of Art dengan Fontys University of Applied Sciences or Saxion University of Applied Sciences, Netherlands"
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa itu USP dan SPP?"
+			},
+			{
+				"role": "assistant",
+				"content": "USP (Uang Sumbangan Pendidikan) dibayarkan sekali selama menjadi mahasiswa, sedangkan SPP (Sumbangan Penyelenggaraan Pendidikan) dibayarkan setiap bulan selama mahasiswa aktif."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara pembayaran administrasi di ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Pembayaran administrasi ISTTS dilakukan melalui BCA Virtual Account. Setiap mahasiswa memiliki nomor rekening unik untuk melakukan transfer atau setor tunai."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah ada sanksi jika terlambat membayar administrasi?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ya, ada biaya keterlambatan sebesar Rp100.000,- per periode. Jika terlambat sampai akhir semester, mahasiswa tidak bisa mengikuti perwalian di semester berikutnya."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara mengajukan dispensasi pembayaran?"
+			},
+			{
+				"role": "assistant",
+				"content": "Pengajuan dispensasi pembayaran diajukan ke Wakil Rektor II paling lambat satu bulan sebelum tagihan pertama semester berjalan. Syarat dan langkah pengajuan bisa dilihat di website ISTTS."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa syarat kelulusan ECC?"
+			},
+			{
+				"role": "assistant",
+				"content": "Syarat kelulusan ECC adalah menyelesaikan 4 level dan mendapatkan nilai minimal 56 di setiap levelnya."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara mengikuti Ujian Penempatan ECC?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ujian Penempatan ECC diselenggarakan sekali setiap pertengahan semester. Mahasiswa wajib mendaftar dan mengikuti ujian untuk menentukan level awal ECC."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah Ujian Penempatan ECC bisa diulang?"
+			},
+			{
+				"role": "assistant",
+				"content": "Tidak, Ujian Penempatan ECC tidak bisa diulang. Hasilnya berlaku selama masa studi mahasiswa."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara mendaftar kelas ECC setelah Ujian Penempatan?"
+			},
+			{
+				"role": "assistant",
+				"content": "Pendaftaran kelas ECC dilakukan online di awal semester, bersamaan dengan jadwal perwalian. Mahasiswa bisa memilih kelas sesuai jadwal yang diinginkan."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apa saja sanksi jika tidak aktif di kelas ECC?"
+			},
+			{
+				"role": "assistant",
+				"content": "Mahasiswa yang hadir kurang dari 8 kali selama semester dianggap tidak aktif dan akan dikenai sanksi di semester berikutnya."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah ada sertifikat setelah lulus ECC Level 4?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ya, mahasiswa yang lulus ECC Level 4 akan mendapatkan sertifikat tanda lulus. Sertifikat ini menjadi salah satu syarat yudisium."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Apakah ada kuliah tamu dengan native speaker di ECC?"
+			},
+			{
+				"role": "assistant",
+				"content": "Ya, setiap tahun ECC ISTTS menyelenggarakan kuliah tamu dengan native speaker dari berbagai sekolah bahasa Inggris di Surabaya."
+			}
+		],
+		[
+			{
+				"role": "user",
+				"content": "Bagaimana cara mendapatkan informasi lebih lanjut tentang ISTTS?"
+			},
+			{
+				"role": "assistant",
+				"content": "Anda bisa mengunjungi website ISTTS di istts.ac.id atau menghubungi bagian informasi di nomor (031) 5945505."
+			}
+		]
+	]
+}
